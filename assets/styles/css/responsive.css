@@ -236,7 +236,7 @@
     .container-slider__img {
         height: 365px;
         width: 100%;
-        padding-bottom: 30px;
+        margin-bottom: 30px;
     }
 
     .popular-tours__img {
